@@ -27,17 +27,11 @@
     "use strict";
 
     var PLUGIN_ID = require("./package.json").name,
-
         MENU_ID = "tutorial",
-        MENU_LABEL = "$$$/JavaScripts/Generator/Tutorial/Menu=Tutorial",
-
-        FILES_TO_IGNORE = [".ds_store", "desktop.ini"],
-        DELAY_TO_WAIT_UNTIL_USER_DONE = 300,
-        MAX_SIMULTANEOUS_UPDATES = 50;
+        MENU_LABEL = "$$$/JavaScripts/Generator/Tutorial/Menu=Tutorial";
     
     var _generator = null,
         _currentDocumentId = null,
-        _contextPerDocument = {},
         _config = null;
 
     /*********** INIT ***********/
