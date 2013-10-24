@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Getting started Adobe Generator",
   "main": "main.js",
-  "generator-core-version": "~1",
+  "generator-core-version": "~2",
   "repository": {
     "type": "git",
     "url": "https://github.com/tomkrcha/generator-getting-started"
