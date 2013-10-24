@@ -1,6 +1,6 @@
 {
   "name": "generator-getting-started",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Getting started Adobe Generator",
   "main": "main.js",
   "generator-core-version": "~1",
