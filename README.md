@@ -9,6 +9,7 @@ Created by Tom Krcha https://twitter.com/tomkrcha
 
 ---------
 Built-in Generator log files can be found here:
+
 Mac:
 /Users/[your username]/Library/Logs/Adobe/Adobe Photoshop CC/Generator
 
