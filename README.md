@@ -11,7 +11,7 @@ Created by Tom Krcha https://twitter.com/tomkrcha
 Built-in Generator log files can be found here:
 
 Mac:
-/Users/[your username]/Library/Logs/Adobe/Adobe Photoshop CC/Generator
+/Users/Pavlovcik/Library/Logs/Adobe/Adobe Photoshop CC/Generator
 
 Windows:
 C:\Users\[your username]\AppData\Roaming\Adobe\Adobe Photoshop
